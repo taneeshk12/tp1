@@ -1,0 +1,11 @@
+.navbar-brand{
+    font-style: italic;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+    text-shadow: 3px 3px red;
+}
+
+body{
+    background-color: black;
+}
